@@ -11,8 +11,6 @@ Politica sull'Accesso Aperto ai contributi della ricerca scientifica dell'INGV
    Politica sull'Accesso Aperto ai contributi della ricerca scientifica 
 
 .. toctree::
-   :numbered:
-   :hidden:
 
    doc/premessa.rst
    doc/art1
